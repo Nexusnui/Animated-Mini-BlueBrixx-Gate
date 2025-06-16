@@ -14,7 +14,7 @@ First install Arduino IDE for your operating system(Windows/Mac/Linux). You can 
 4. In the board manager search for esp32 and inatall 'esp32 by Espressif Systems' (>= 3.0.2)
 5. Wait for the installation to finish
 
-The Waveshare Wiki provides the same guide with image here:  
+The Waveshare Wiki provides the same guide with images here:  
 [https://www.waveshare.com/wiki/Arduino_Board_Managers_Tutorial]
 
 # 3. Install Arduino GFX
@@ -43,13 +43,13 @@ There will be a download under releases at a later point, but for now you have t
 1. Connect the display with your pc through a usb-c cable
 2. In Arduino IDE go to Tool->Board->esp32 and select "ESP32S3 Dev Module"
 3. Under tools apply the following settings:
-   a. 'Events Run On: "Core 0"'
-   b. 'Flash Mode: "QIO 120MHz"'
-   c. 'Flash Size: "16MB (128Mb)"'
-   d. 'Arduino Runs On: "Core 1"'
-   e. 'USB Firmware MSC On Boot: "Disabled"'
-   f. 'Partition Scheme: "16M Flash (3MB APP/9.9MB FATFS)"'
-   g. 'PSRAM: "OPI PSRAM"'
+   - 'Events Run On: "Core 0"'
+   - 'Flash Mode: "QIO 120MHz"'
+   - 'Flash Size: "16MB (128Mb)"'
+   - 'Arduino Runs On: "Core 1"'
+   - 'USB Firmware MSC On Boot: "Disabled"'
+   - 'Partition Scheme: "16M Flash (3MB APP/9.9MB FATFS)"'
+   - 'PSRAM: "OPI PSRAM"'
    
 The Waveshare Wiki has in Image for the settings under tools(it shows a different partition scheme):
 [https://www.waveshare.com/wiki/ESP32-S3-LCD-1.85#Arduino_project_parameter_setting]

@@ -1,4 +1,4 @@
-These are the instructions for flashing the already compiled firmware.(The compiled firmaware is no available yet)
+These are the instructions for flashing the already compiled firmware.(The compiled firmware is no available yet)
 
 # 1. Prepare the SD Card
 1. Format your sd card to "Fat32"(depending on your operating system you may require additional software)

@@ -4,7 +4,8 @@ Animated Mini BlueBrixx Gate
 # About this project
 With this project you can add a screen to your Mini Stargates from BlueBrixx, that display an animation of the event horizon.
 
-# Partlist: TBD
+# Partlist:
+You can find all parts required for building the screen in the [Partlist](PARTLIST.md).
 
 # Printing: TBD
 

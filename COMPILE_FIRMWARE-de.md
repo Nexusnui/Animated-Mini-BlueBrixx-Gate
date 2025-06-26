@@ -3,7 +3,7 @@ Hier ist die Anleitung zum Kompilieren der Firmware mit Arduino.
 
 # 1. Arduino IDE 2.0 installieren
 
-Installieren Sie zunächst die Arduino IDE für Ihr Betriebssystem (Windows/Mac/Linux). Sie können sie von [der offiziellen Arduino-Website] (https://www.arduino.cc/en/software/), dem Windows Store, Flathub und anderen Quellen herunterladen.
+Installieren Sie zunächst die Arduino IDE für Ihr Betriebssystem (Windows/Mac/Linux). Sie können sie von [der offiziellen Arduino-Website](https://www.arduino.cc/en/software/), dem Windows Store, Flathub und anderen Quellen herunterladen.
 
 # 2. Unterstützung für ESP32-Boards hinzufügen
 
@@ -26,7 +26,7 @@ Das Waveshare Wiki bietet die gleiche Anleitung auf English mit Bildern hier:
 # 4. Holen Sie sich den Arduino-Sketch
 
 Es wird zu einem späteren Zeitpunkt einen Download unter Releases geben, aber im Moment müssen Sie Folgendes tun:
-1. Gehe auf die [Hauptseite dieses Projekts] (https://github.com/Nexusnui/Animated-Mini-BlueBrixx-Gate)
+1. Gehe auf die [Hauptseite dieses Projekts](https://github.com/Nexusnui/Animated-Mini-BlueBrixx-Gate)
 2. Klicke auf den Pfeil neben dem grünen "Code"-Knopf
 3. Klicken Sie unter SSH auf die Schaltfläche "Download ZIP".
 4. Entpacken Sie den Inhalt der ZIP-Datei.

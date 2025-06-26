@@ -6,5 +6,5 @@ Dies sind die Anweisungen zum Flashen der bereits kompilierten Firmware. (Die ko
 3. Stecken Sie die Karte in das Display.
 
 # 2. Flashen Sie die Firmware
-1. Laden Sie die Firmware-Datei (.bin) von der Release-Seite (TBD) herunter.
+1. [Lade Sie die aktuelle Firmware herunter](https://github.com/Nexusnui/Animated-Mini-BlueBrixx-Gate/releases/latest/download/Animated-Mini-BlueBrixx-Gate.bin)
 2. Befolgen Sie die Anweisungen im [Waveshare Wiki](https://www.waveshare.com/wiki/Flash_Firmware_Flashing_and_Erasing), aber wählen Sie die Firmware, die Sie zuvor heruntergeladen haben.

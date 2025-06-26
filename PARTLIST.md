@@ -1,7 +1,7 @@
 This the partlist for this project
 
 | Part                                             | Count  | Notes                                                              |
-| :----------------------------------------------: | ----:  | :----------------------------------------------------------------- |
+| :----------------------------------------------: | -----: | :----------------------------------------------------------------- |
 | Waveshare-ESP32-S3-LCD-1.85                      |     1x | The version without touch is required since it has a smaller bezel |
 | M2 Screws                                        |     3x | Tested with a length of 4mm slightly longer should work too        |
 | Tiles from Mini Stargate                         |     4x | Can be sourced from an BlueBrixx set that includes them.           |

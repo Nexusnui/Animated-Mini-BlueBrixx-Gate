@@ -6,7 +6,7 @@ If you want to tweak the model you can do that with the customizer on [the Thing
 The other option is to open [Screen_Shell.scad](3D_Models/Screen_Shell.scad) in [OpenScad](https://openscad.org/) and use the customiser there.
 
 # 2. The Filament
-I used the pla filement ["Schimmernde Nacht"](https://www.recyclingfabrik.com/products/schimmernde-nacht) from Recycling Fabrik since it is close to the gunmetal color used by BueBrixx.
+I used the pla filement ["Schimmernde Nacht"](https://www.recyclingfabrik.com/products/schimmernde-nacht) from Recycling Fabrik since it is close to the gunmetal color used by BlueBrixx.
 
 # 3. Print settings
 I used the following settings to print my model:

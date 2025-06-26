@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-green.svg)](README.md)
+[![de](https://img.shields.io/badge/lang-de-red.svg)](README-de.md)
+
 # Animated-Mini-BlueBrixx-Gate (Instructions are currently WIP)
 Animated Mini BlueBrixx Gate
 

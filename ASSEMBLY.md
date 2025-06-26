@@ -10,6 +10,7 @@ Insert the screen into the shell from the top, the usb c port should point towar
 
 # 3. Screw in the screen
 Flip the screen and use 3x m2 screws to mount the screen the shell.
+You can now remove the foil on the screen, if it is still on there.
 
 # 4. Add bricks
 Add the 4x stargate tiles to the front and 2x round tiles with bar(20482) to the holes next to the qap on the side.

@@ -7,12 +7,14 @@ With this project you can add a screen to your Mini Stargates from BlueBrixx, th
 # Partlist:
 You can find all parts required for building the screen in the [Partlist](PARTLIST.md).
 
-# Printing: TBD
+# Printing:
+Advice/Settings for printing the shell can be found [here](3D_PRINTING.md)
 
 # Software:
 There are two ways top get the firmware onto the device the easiest beeing by [flashing the precompiled firmware](FLASH_FIRMWARE.md)(Only Windows) or [compiling it with Arduino](COMPILE_FIRMWARE.md).
 
-# Assembly: TBD
+# Assembly:
+After printing and flashing the firmware you can follow this [assembly guide](ASSEMBLY.md) to put everything together.
 
 # Sources:
 - The main code uses a modified version of the [Gif viewer example(GIFDEC)](https://github.com/moononournation/Arduino_GFX/tree/master/examples/ImgViewer/ImgViewerAnimatedGIF_GIFDEC) from the [Arduino GFX library](https://github.com/moononournation/Arduino_GFX).

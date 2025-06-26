@@ -23,17 +23,16 @@ Das Waveshare Wiki bietet die gleiche Anleitung auf English mit Bildern hier:
 2. Suchen Sie nach "GFX Library for Arduino" (von "Moon On Our Nation").
 3. Installiere sie diese (Version 1.6.0).
 
-# 4. Holen Sie sich den Arduino-Sketch
+# 4. Den Arduino-Sketch herunterladen und öffnen
 
-Es wird zu einem späteren Zeitpunkt einen Download unter Releases geben, aber im Moment müssen Sie Folgendes tun:
-1. Gehe auf die [Hauptseite dieses Projekts](https://github.com/Nexusnui/Animated-Mini-BlueBrixx-Gate)
-2. Klicke auf den Pfeil neben dem grünen "Code"-Knopf
-3. Klicken Sie unter SSH auf die Schaltfläche "Download ZIP".
-4. Entpacken Sie den Inhalt der ZIP-Datei.
-5. Gehen Sie zu "Animated-Mini-BlueBrixx-Gate-main/Code/animated-gate".
-6. Öffnen Sie "animated-gate.ino" mit der Arduino IDE (ein Doppelklick sollte genügen).
+Folge diesen Schritten:
+1. [Downloade die aktuell Quellcode Zip Datei](https://github.com/Nexusnui/Animated-Mini-BlueBrixx-Gate/releases/latest/download/Animated-Mini-BlueBrixx-Gate.zip)
+2. Entpacken Sie den Inhalt der ZIP-Datei.
+3. Gehen Sie zu "Animated-Mini-BlueBrixx-Gate-main/Code/animated-gate".
+4. Öffnen Sie "animated-gate.ino" mit der Arduino IDE (ein Doppelklick sollte genügen).
 
 # 5. Bereiten Sie die SD-Karte vor
+
 1. Formatieren Sie Ihre SD-Karte mit „Fat32“ (je nach Betriebssystem benötigen Sie eventuell zusätzliche Software)
 2. Verschieben Sie die Datei „PuddleLoop.gif“ aus dem Datenordner (innerhalb des Sketch-Ordners) auf die SD-Karte
 3. Stecken Sie die Karte in das Display.
@@ -55,6 +54,7 @@ Das Waveshare Wiki hat in Bild für die Einstellungen unter Tools (es zeigt aber
 [https://www.waveshare.com/wiki/ESP32-S3-LCD-1.85#Arduino_project_parameter_setting]
 
 # 7. Hochladen des Sketches
+
 1. Klicken Sie auf die Schaltfläche Upload.
 2. Warten Sie, bis die Skizze kompiliert und hochgeladen ist.
 3. Sie sollten nun die PuddleLoop-Animation auf dem Bildschirm sehen.

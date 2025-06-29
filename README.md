@@ -2,7 +2,8 @@
 [![de](https://img.shields.io/badge/lang-de-red.svg)](README-de.md)
 
 # Animated-Mini-BlueBrixx-Gate (Instructions are currently WIP)
-Animated Mini BlueBrixx Gate
+Animated Mini BlueBrixx Gate:
+![Gif of BlueBrixx Stargate](Images/Animatead_Brick_Stargate_TP_BG.gif)
 
 # About this project
 With this project you can add a screen to your Mini Stargates from BlueBrixx, that display an animation of the event horizon.

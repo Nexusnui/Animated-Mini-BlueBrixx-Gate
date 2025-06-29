@@ -3,7 +3,8 @@
 
 
 # Animated-Mini-BlueBrixx-Gate (Anleitung ist derzeit WIP)
-Animated Mini BlueBrixx Gate
+Animiertes Mini BlueBrixx Gate:
+![Gif eines BlueBrixx Stargates](Images/Animatead_Brick_Stargate_TP_BG.gif)
 
 # Über dieses Projekt
 Mit diesem Projekt können den Mini Stargates von BlueBrixx Bildschirme hinzugefügt werden, die eine Animation des Ereignishorizonts anzeigen.
